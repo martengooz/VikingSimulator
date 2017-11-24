@@ -1,0 +1,568 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>greybeardWest1.png</Source>
+      <Name>greybeardWest1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\marten\Desktop\VikingSimulator 8\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\greybeardWest1.xnb</Output>
+      <Time>2013-03-18T11:02:00+01:00</Time>
+    </Item>
+    <Item>
+      <Source>greybeardEast1.png</Source>
+      <Name>greybeardEast1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\marten\Desktop\VikingSimulator 8\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\greybeardEast1.xnb</Output>
+      <Time>2013-05-04T18:13:28+02:00</Time>
+    </Item>
+    <Item>
+      <Source>redbeardWest1.png</Source>
+      <Name>redbeardWest1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\marten\Desktop\VikingSimulator 8\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\redbeardWest1.xnb</Output>
+      <Time>2013-03-18T11:02:00+01:00</Time>
+    </Item>
+    <Item>
+      <Source>redbeardEast1.png</Source>
+      <Name>redbeardEast1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\marten\Desktop\VikingSimulator 8\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\redbeardEast1.xnb</Output>
+      <Time>2013-03-18T11:02:00+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Hurt.png</Source>
+      <Name>Hurt</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\marten\Desktop\VikingSimulator 8\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\Hurt.xnb</Output>
+      <Time>2013-03-20T15:36:40+01:00</Time>
+    </Item>
+    <Item>
+      <Source>greyBeardWon.png</Source>
+      <Name>greyBeardWon</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\marten\Desktop\VikingSimulator 8\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\greyBeardWon.xnb</Output>
+      <Time>2013-05-19T17:37:18+02:00</Time>
+    </Item>
+    <Item>
+      <Source>redBeardWon.png</Source>
+      <Name>redBeardWon</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\marten\Desktop\VikingSimulator 8\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\redBeardWon.xnb</Output>
+      <Time>2013-05-19T17:36:06+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Fireball.png</Source>
+      <Name>Fireball</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\marten\Desktop\VikingSimulator 8\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\Fireball.xnb</Output>
+      <Time>2013-04-08T10:46:02+02:00</Time>
+    </Item>
+    <Item>
+      <Source>MenuExitText.png</Source>
+      <Name>MenuExitText</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\marten\Desktop\VikingSimulator 8\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\MenuExitText.xnb</Output>
+      <Time>2013-04-16T12:25:42+02:00</Time>
+    </Item>
+    <Item>
+      <Source>MenuPlayText.png</Source>
+      <Name>MenuPlayText</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\marten\Desktop\VikingSimulator 8\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\MenuPlayText.xnb</Output>
+      <Time>2013-04-16T12:25:42+02:00</Time>
+    </Item>
+    <Item>
+      <Source>MenuRestartText.png</Source>
+      <Name>MenuRestartText</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\marten\Desktop\VikingSimulator 8\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\MenuRestartText.xnb</Output>
+      <Time>2013-04-16T12:25:42+02:00</Time>
+    </Item>
+    <Item>
+      <Source>MenuLogoImage.png</Source>
+      <Name>MenuLogoImage</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\marten\Desktop\VikingSimulator 8\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\MenuLogoImage.xnb</Output>
+      <Time>2013-04-17T15:21:58+02:00</Time>
+    </Item>
+    <Item>
+      <Source>cow.png</Source>
+      <Name>cow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\marten\Desktop\VikingSimulator 8\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\cow.xnb</Output>
+      <Time>2013-05-06T19:27:34+02:00</Time>
+    </Item>
+    <Item>
+      <Source>bomb.png</Source>
+      <Name>bomb</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\marten\Desktop\VikingSimulator 8\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\bomb.xnb</Output>
+      <Time>2013-05-15T23:16:30+02:00</Time>
+    </Item>
+    <Item>
+      <Source>köttbulle.png</Source>
+      <Name>köttbulle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\marten\Desktop\VikingSimulator 8\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\köttbulle.xnb</Output>
+      <Time>2013-05-15T23:10:36+02:00</Time>
+    </Item>
+    <Item>
+      <Source>greybeardHurt.png</Source>
+      <Name>greybeardHurt</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\marten\Desktop\VikingSimulator 8\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\greybeardHurt.xnb</Output>
+      <Time>2013-05-15T23:10:54+02:00</Time>
+    </Item>
+    <Item>
+      <Source>redbeardHurt.png</Source>
+      <Name>redbeardHurt</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\marten\Desktop\VikingSimulator 8\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\redbeardHurt.xnb</Output>
+      <Time>2013-05-15T23:11:00+02:00</Time>
+    </Item>
+    <Item>
+      <Source>background.png</Source>
+      <Name>background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\marten\Desktop\VikingSimulator 8\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\background.xnb</Output>
+      <Time>2013-05-19T17:28:26+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Font.spritefont</Source>
+      <Name>Font</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\marten\Desktop\VikingSimulator 8\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\Font.xnb</Output>
+      <Time>2013-05-15T16:30:34+02:00</Time>
+    </Item>
+    <Item>
+      <Source>sounds\A det satt som en smäck.wav</Source>
+      <Name>sounds\A det satt som en smäck</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\marten\Desktop\VikingSimulator 8\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\sounds\A det satt som en smäck.xnb</Output>
+      <Time>2013-05-15T18:38:58+02:00</Time>
+    </Item>
+    <Item>
+      <Source>sounds\A du det där va gott.wav</Source>
+      <Name>sounds\A du det där va gott</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\marten\Desktop\VikingSimulator 8\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\sounds\A du det där va gott.xnb</Output>
+      <Time>2013-05-15T18:38:58+02:00</Time>
+    </Item>
+    <Item>
+      <Source>sounds\auw.wav</Source>
+      <Name>sounds\auw</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\marten\Desktop\VikingSimulator 8\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\sounds\auw.xnb</Output>
+      <Time>2013-05-15T18:38:58+02:00</Time>
+    </Item>
+    <Item>
+      <Source>sounds\Bom.wav</Source>
+      <Name>sounds\Bom</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\marten\Desktop\VikingSimulator 8\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\sounds\Bom.xnb</Output>
+      <Time>2013-05-15T18:38:58+02:00</Time>
+    </Item>
+    <Item>
+      <Source>sounds\Bullar.wav</Source>
+      <Name>sounds\Bullar</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\marten\Desktop\VikingSimulator 8\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\sounds\Bullar.xnb</Output>
+      <Time>2013-05-15T18:38:58+02:00</Time>
+    </Item>
+    <Item>
+      <Source>sounds\Buttköllar.wav</Source>
+      <Name>sounds\Buttköllar</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\marten\Desktop\VikingSimulator 8\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\sounds\Buttköllar.xnb</Output>
+      <Time>2013-05-15T18:38:58+02:00</Time>
+    </Item>
+    <Item>
+      <Source>sounds\Det här va fan rätt gott ändå.wav</Source>
+      <Name>sounds\Det här va fan rätt gott ändå</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\marten\Desktop\VikingSimulator 8\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\sounds\Det här va fan rätt gott ändå.xnb</Output>
+      <Time>2013-05-15T18:38:58+02:00</Time>
+    </Item>
+    <Item>
+      <Source>sounds\Ejmen Aeej.wav</Source>
+      <Name>sounds\Ejmen Aeej</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\marten\Desktop\VikingSimulator 8\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\sounds\Ejmen Aeej.xnb</Output>
+      <Time>2013-05-15T18:38:58+02:00</Time>
+    </Item>
+    <Item>
+      <Source>sounds\Ejmen fyfan jag sa ju att jag var snyggast.wav</Source>
+      <Name>sounds\Ejmen fyfan jag sa ju att jag var snyggast</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\marten\Desktop\VikingSimulator 8\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\sounds\Ejmen fyfan jag sa ju att jag var snyggast.xnb</Output>
+      <Time>2013-05-15T18:38:56+02:00</Time>
+    </Item>
+    <Item>
+      <Source>sounds\En bomb!.wav</Source>
+      <Name>sounds\En bomb!</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\marten\Desktop\VikingSimulator 8\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\sounds\En bomb!.xnb</Output>
+      <Time>2013-05-15T18:38:56+02:00</Time>
+    </Item>
+    <Item>
+      <Source>sounds\Fyfan.wav</Source>
+      <Name>sounds\Fyfan</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\marten\Desktop\VikingSimulator 8\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\sounds\Fyfan.xnb</Output>
+      <Time>2013-05-15T18:38:56+02:00</Time>
+    </Item>
+    <Item>
+      <Source>sounds\Huh.wav</Source>
+      <Name>sounds\Huh</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\marten\Desktop\VikingSimulator 8\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\sounds\Huh.xnb</Output>
+      <Time>2013-05-15T18:38:56+02:00</Time>
+    </Item>
+    <Item>
+      <Source>sounds\Ja, ko smakar ko.wav</Source>
+      <Name>sounds\Ja, ko smakar ko</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\marten\Desktop\VikingSimulator 8\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\sounds\Ja, ko smakar ko.xnb</Output>
+      <Time>2013-05-15T18:38:56+02:00</Time>
+    </Item>
+    <Item>
+      <Source>sounds\Jaa.wav</Source>
+      <Name>sounds\Jaa</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\marten\Desktop\VikingSimulator 8\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\sounds\Jaa.xnb</Output>
+      <Time>2013-05-15T18:38:56+02:00</Time>
+    </Item>
+    <Item>
+      <Source>sounds\Kan jag verkligen äta ko.wav</Source>
+      <Name>sounds\Kan jag verkligen äta ko</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\marten\Desktop\VikingSimulator 8\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\sounds\Kan jag verkligen äta ko.xnb</Output>
+      <Time>2013-05-15T18:38:56+02:00</Time>
+    </Item>
+    <Item>
+      <Source>sounds\Käk.wav</Source>
+      <Name>sounds\Käk</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\marten\Desktop\VikingSimulator 8\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\sounds\Käk.xnb</Output>
+      <Time>2013-05-15T18:38:56+02:00</Time>
+    </Item>
+    <Item>
+      <Source>sounds\Men ajdå!.wav</Source>
+      <Name>sounds\Men ajdå!</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\marten\Desktop\VikingSimulator 8\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\sounds\Men ajdå!.xnb</Output>
+      <Time>2013-05-15T18:38:56+02:00</Time>
+    </Item>
+    <Item>
+      <Source>sounds\Men ja, vad glad jag blir.wav</Source>
+      <Name>sounds\Men ja, vad glad jag blir</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\marten\Desktop\VikingSimulator 8\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\sounds\Men ja, vad glad jag blir.xnb</Output>
+      <Time>2013-05-15T18:38:56+02:00</Time>
+    </Item>
+    <Item>
+      <Source>sounds\Mjöd.wav</Source>
+      <Name>sounds\Mjöd</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\marten\Desktop\VikingSimulator 8\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\sounds\Mjöd.xnb</Output>
+      <Time>2013-05-15T18:38:56+02:00</Time>
+    </Item>
+    <Item>
+      <Source>sounds\Mu på dig.wav</Source>
+      <Name>sounds\Mu på dig</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\marten\Desktop\VikingSimulator 8\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\sounds\Mu på dig.xnb</Output>
+      <Time>2013-05-15T18:38:56+02:00</Time>
+    </Item>
+    <Item>
+      <Source>sounds\Mu.wav</Source>
+      <Name>sounds\Mu</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\marten\Desktop\VikingSimulator 8\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\sounds\Mu.xnb</Output>
+      <Time>2013-05-15T18:38:56+02:00</Time>
+    </Item>
+    <Item>
+      <Source>sounds\Muuh.wav</Source>
+      <Name>sounds\Muuh</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\marten\Desktop\VikingSimulator 8\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\sounds\Muuh.xnb</Output>
+      <Time>2013-05-15T18:38:56+02:00</Time>
+    </Item>
+    <Item>
+      <Source>sounds\Nej fyfan.wav</Source>
+      <Name>sounds\Nej fyfan</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\marten\Desktop\VikingSimulator 8\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\sounds\Nej fyfan.xnb</Output>
+      <Time>2013-05-15T18:38:56+02:00</Time>
+    </Item>
+    <Item>
+      <Source>sounds\nomnom1.wav</Source>
+      <Name>sounds\nomnom1</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\marten\Desktop\VikingSimulator 8\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\sounds\nomnom1.xnb</Output>
+      <Time>2013-05-15T18:38:56+02:00</Time>
+    </Item>
+    <Item>
+      <Source>sounds\nomnom2.wav</Source>
+      <Name>sounds\nomnom2</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\marten\Desktop\VikingSimulator 8\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\sounds\nomnom2.xnb</Output>
+      <Time>2013-05-15T18:38:56+02:00</Time>
+    </Item>
+    <Item>
+      <Source>sounds\Nu ska de smällas.wav</Source>
+      <Name>sounds\Nu ska de smällas</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\marten\Desktop\VikingSimulator 8\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\sounds\Nu ska de smällas.xnb</Output>
+      <Time>2013-05-15T18:38:58+02:00</Time>
+    </Item>
+    <Item>
+      <Source>sounds\Precis som mamma brukade baka dom.wav</Source>
+      <Name>sounds\Precis som mamma brukade baka dom</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\marten\Desktop\VikingSimulator 8\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\sounds\Precis som mamma brukade baka dom.xnb</Output>
+      <Time>2013-05-15T18:38:58+02:00</Time>
+    </Item>
+    <Item>
+      <Source>sounds\Smärta.wav</Source>
+      <Name>sounds\Smärta</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\marten\Desktop\VikingSimulator 8\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\sounds\Smärta.xnb</Output>
+      <Time>2013-05-15T18:38:58+02:00</Time>
+    </Item>
+    <Item>
+      <Source>sounds\Sprit.wav</Source>
+      <Name>sounds\Sprit</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\marten\Desktop\VikingSimulator 8\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\sounds\Sprit.xnb</Output>
+      <Time>2013-05-15T18:38:58+02:00</Time>
+    </Item>
+    <Item>
+      <Source>sounds\Sprängämnen.wav</Source>
+      <Name>sounds\Sprängämnen</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\marten\Desktop\VikingSimulator 8\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\sounds\Sprängämnen.xnb</Output>
+      <Time>2013-05-15T18:38:58+02:00</Time>
+    </Item>
+    <Item>
+      <Source>sounds\Starköl.wav</Source>
+      <Name>sounds\Starköl</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\marten\Desktop\VikingSimulator 8\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\sounds\Starköl.xnb</Output>
+      <Time>2013-05-15T18:38:58+02:00</Time>
+    </Item>
+    <Item>
+      <Source>sounds\Vätska, ge mig nu.wav</Source>
+      <Name>sounds\Vätska, ge mig nu</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\marten\Desktop\VikingSimulator 8\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\sounds\Vätska, ge mig nu.xnb</Output>
+      <Time>2013-05-15T18:38:58+02:00</Time>
+    </Item>
+    <Item>
+      <Source>sounds\Vätska.wav</Source>
+      <Name>sounds\Vätska</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\marten\Desktop\VikingSimulator 8\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\sounds\Vätska.xnb</Output>
+      <Time>2013-05-15T18:38:58+02:00</Time>
+    </Item>
+    <Item>
+      <Source>sounds\Åh här ska drickas.wav</Source>
+      <Name>sounds\Åh här ska drickas</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\marten\Desktop\VikingSimulator 8\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\sounds\Åh här ska drickas.xnb</Output>
+      <Time>2013-05-15T18:38:58+02:00</Time>
+    </Item>
+    <Item>
+      <Source>sounds\Åh.wav</Source>
+      <Name>sounds\Åh</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\marten\Desktop\VikingSimulator 8\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\sounds\Åh.xnb</Output>
+      <Time>2013-05-15T18:38:58+02:00</Time>
+    </Item>
+    <Item>
+      <Source>sounds\Main Theme.wav</Source>
+      <Name>sounds\Main Theme</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\marten\Desktop\VikingSimulator 8\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\sounds\Main Theme.xnb</Output>
+      <Time>2013-05-15T20:06:20+02:00</Time>
+    </Item>
+    <Item>
+      <Source>mjod.png</Source>
+      <Name>mjod</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\marten\Desktop\VikingSimulator 8\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\mjod.xnb</Output>
+      <Time>2013-05-19T20:42:53.7487805+02:00</Time>
+    </Item>
+    <Item>
+      <Source>redbeardWin.png</Source>
+      <Name>redbeardWin</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\marten\Desktop\VikingSimulator 8\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\redbeardWin.xnb</Output>
+      <Time>2013-05-19T20:43:53.1361772+02:00</Time>
+    </Item>
+    <Item>
+      <Source>greybeardWin.png</Source>
+      <Name>greybeardWin</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\marten\Desktop\VikingSimulator 8\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\greybeardWin.xnb</Output>
+      <Time>2013-05-19T20:43:56.4093644+02:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\marten\Desktop\VikingSimulator 8\VikingSimulator\VikingSimulatorContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\marten\Desktop\VikingSimulator 8\VikingSimulator\VikingSimulator\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\marten\Desktop\VikingSimulator 8\VikingSimulator\VikingSimulatorContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\marten\Desktop\VikingSimulator 8\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2013-03-13T18:10:37.4249875+01:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

@@ -1,0 +1,399 @@
+C:\Users\nti\Documents\GitHub\Bananaviking\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\VikingSimulator.exe
+C:\Users\nti\Documents\GitHub\Bananaviking\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\VikingSimulator.pdb
+C:\Users\nti\Documents\GitHub\Bananaviking\VikingSimulator\VikingSimulator\VikingSimulator\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\nti\Documents\GitHub\Bananaviking\VikingSimulator\VikingSimulator\VikingSimulator\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\nti\Documents\GitHub\Bananaviking\VikingSimulator\VikingSimulator\VikingSimulator\obj\x86\Debug\VikingSimulator.exe
+C:\Users\nti\Documents\GitHub\Bananaviking\VikingSimulator\VikingSimulator\VikingSimulator\obj\x86\Debug\VikingSimulator.pdb
+C:\Users\nti\Documents\GitHub\Bananaviking\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\greybeardEast1.xnb
+C:\Users\nti\Documents\GitHub\Bananaviking\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\greybeardWest1.xnb
+C:\Users\nti\Documents\GitHub\Bananaviking\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\redbeardEast1.xnb
+C:\Users\nti\Documents\GitHub\Bananaviking\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\redbeardWest1.xnb
+C:\Users\marten\Desktop\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\greybeardWest1.xnb
+C:\Users\marten\Desktop\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\greybeardEast1.xnb
+C:\Users\marten\Desktop\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\redbeardWest1.xnb
+C:\Users\marten\Desktop\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\redbeardEast1.xnb
+C:\Users\marten\Desktop\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\VikingSimulator.exe
+C:\Users\marten\Desktop\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\VikingSimulator.pdb
+C:\Users\marten\Desktop\VikingSimulator\VikingSimulator\VikingSimulator\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\marten\Desktop\VikingSimulator\VikingSimulator\VikingSimulator\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\marten\Desktop\VikingSimulator\VikingSimulator\VikingSimulator\obj\x86\Debug\VikingSimulator.exe
+C:\Users\marten\Desktop\VikingSimulator\VikingSimulator\VikingSimulator\obj\x86\Debug\VikingSimulator.pdb
+C:\Users\nti\Desktop\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\greybeardWest1.xnb
+C:\Users\nti\Desktop\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\greybeardEast1.xnb
+C:\Users\nti\Desktop\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\redbeardWest1.xnb
+C:\Users\nti\Desktop\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\redbeardEast1.xnb
+C:\Users\nti\Desktop\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\VikingSimulator.exe
+C:\Users\nti\Desktop\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\VikingSimulator.pdb
+C:\Users\nti\Desktop\VikingSimulator\VikingSimulator\VikingSimulator\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\nti\Desktop\VikingSimulator\VikingSimulator\VikingSimulator\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\nti\Desktop\VikingSimulator\VikingSimulator\VikingSimulator\obj\x86\Debug\VikingSimulator.exe
+C:\Users\nti\Desktop\VikingSimulator\VikingSimulator\VikingSimulator\obj\x86\Debug\VikingSimulator.pdb
+C:\Users\nti\VikingSimulator\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\greybeardWest1.xnb
+C:\Users\nti\VikingSimulator\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\greybeardEast1.xnb
+C:\Users\nti\VikingSimulator\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\redbeardWest1.xnb
+C:\Users\nti\VikingSimulator\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\redbeardEast1.xnb
+C:\Users\nti\VikingSimulator\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\VikingSimulator.exe
+C:\Users\nti\VikingSimulator\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\VikingSimulator.pdb
+C:\Users\nti\VikingSimulator\VikingSimulator\VikingSimulator\VikingSimulator\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\nti\VikingSimulator\VikingSimulator\VikingSimulator\VikingSimulator\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\nti\VikingSimulator\VikingSimulator\VikingSimulator\VikingSimulator\obj\x86\Debug\VikingSimulator.exe
+C:\Users\nti\VikingSimulator\VikingSimulator\VikingSimulator\VikingSimulator\obj\x86\Debug\VikingSimulator.pdb
+C:\Users\nti\VikingSimulator\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\Hurt.xnb
+C:\Users\nti\VikingSimulator\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\healthBar.xnb
+C:\Users\nti\Desktop\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\Hurt.xnb
+C:\Users\nti\Desktop\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\greyBeardWon.xnb
+C:\Users\nti\Desktop\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\redBeardWon.xnb
+C:\Users\nti\Desktop\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\Fireball.xnb
+E:\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\greybeardWest1.xnb
+E:\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\greybeardEast1.xnb
+E:\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\redbeardWest1.xnb
+E:\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\redbeardEast1.xnb
+E:\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\Hurt.xnb
+E:\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\greyBeardWon.xnb
+E:\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\redBeardWon.xnb
+E:\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\Fireball.xnb
+E:\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\MenuExit.xnb
+E:\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\MenuPlay.xnb
+E:\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\VikingSimulator.exe
+E:\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\VikingSimulator.pdb
+E:\VikingSimulator\VikingSimulator\VikingSimulator\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\VikingSimulator\VikingSimulator\VikingSimulator\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\VikingSimulator\VikingSimulator\VikingSimulator\obj\x86\Debug\VikingSimulator.exe
+E:\VikingSimulator\VikingSimulator\VikingSimulator\obj\x86\Debug\VikingSimulator.pdb
+C:\Users\nti\Desktop\VikingSimulator gabbe\VikingSimulator\VikingSimulator\VikingSimulator\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\nti\Desktop\VikingSimulator gabbe\VikingSimulator\VikingSimulator\VikingSimulator\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\nti\Desktop\VikingSimulator gabbe\VikingSimulator\VikingSimulator\VikingSimulator\obj\x86\Debug\VikingSimulator.exe
+C:\Users\nti\Desktop\VikingSimulator gabbe\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\greybeardWest1.xnb
+C:\Users\nti\Desktop\VikingSimulator gabbe\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\greybeardEast1.xnb
+C:\Users\nti\Desktop\VikingSimulator gabbe\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\redbeardWest1.xnb
+C:\Users\nti\Desktop\VikingSimulator gabbe\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\redbeardEast1.xnb
+C:\Users\nti\Desktop\VikingSimulator gabbe\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\Hurt.xnb
+C:\Users\nti\Desktop\VikingSimulator gabbe\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\greyBeardWon.xnb
+C:\Users\nti\Desktop\VikingSimulator gabbe\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\redBeardWon.xnb
+C:\Users\nti\Desktop\VikingSimulator gabbe\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\Fireball.xnb
+C:\Users\nti\Desktop\VikingSimulator gabbe\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\MenuExit.xnb
+C:\Users\nti\Desktop\VikingSimulator gabbe\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\MenuPlay.xnb
+C:\Users\nti\Desktop\VikingSimulator gabbe\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\VikingSimulator.exe
+C:\Users\nti\Desktop\VikingSimulator gabbe\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\VikingSimulator.pdb
+C:\Users\nti\Desktop\VikingSimulator gabbe\VikingSimulator\VikingSimulator\VikingSimulator\obj\x86\Debug\VikingSimulator.pdb
+C:\Users\nti\Desktop\VikingSimulator gabbe\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\MenuRestart.xnb
+C:\Users\nti\Programmering\VikingSimulator 2\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\greybeardWest1.xnb
+C:\Users\nti\Programmering\VikingSimulator 2\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\greybeardEast1.xnb
+C:\Users\nti\Programmering\VikingSimulator 2\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\redbeardWest1.xnb
+C:\Users\nti\Programmering\VikingSimulator 2\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\redbeardEast1.xnb
+C:\Users\nti\Programmering\VikingSimulator 2\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\Hurt.xnb
+C:\Users\nti\Programmering\VikingSimulator 2\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\greyBeardWon.xnb
+C:\Users\nti\Programmering\VikingSimulator 2\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\redBeardWon.xnb
+C:\Users\nti\Programmering\VikingSimulator 2\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\Fireball.xnb
+C:\Users\nti\Programmering\VikingSimulator 2\VikingSimulator\VikingSimulator\bin\x86\Debug\VikingSimulator.exe
+C:\Users\nti\Programmering\VikingSimulator 2\VikingSimulator\VikingSimulator\bin\x86\Debug\VikingSimulator.pdb
+C:\Users\nti\Programmering\VikingSimulator 2\VikingSimulator\VikingSimulator\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\nti\Programmering\VikingSimulator 2\VikingSimulator\VikingSimulator\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\nti\Programmering\VikingSimulator 2\VikingSimulator\VikingSimulator\obj\x86\Debug\VikingSimulator.exe
+C:\Users\nti\Programmering\VikingSimulator 2\VikingSimulator\VikingSimulator\obj\x86\Debug\VikingSimulator.pdb
+C:\Users\nti\Programmering\VikingSimulator 2\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\MenuExitText.xnb
+C:\Users\nti\Programmering\VikingSimulator 2\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\MenuPlayText.xnb
+C:\Users\nti\Programmering\VikingSimulator 2\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\MenuRestartText.xnb
+C:\Users\nti\Programmering\VikingSimulator 2\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\MenuLogoImage.xnb
+C:\Users\nti\Desktop\VikingSimulator 2\VikingSimulator\VikingSimulator\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\nti\Desktop\VikingSimulator 2\VikingSimulator\VikingSimulator\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\nti\Desktop\VikingSimulator 2\VikingSimulator\VikingSimulator\obj\x86\Debug\VikingSimulator.exe
+C:\Users\nti\Desktop\VikingSimulator 2\VikingSimulator\VikingSimulator\obj\x86\Debug\VikingSimulator.pdb
+C:\Users\nti\Desktop\VikingSimulator 2\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\greybeardWest1.xnb
+C:\Users\nti\Desktop\VikingSimulator 2\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\greybeardEast1.xnb
+C:\Users\nti\Desktop\VikingSimulator 2\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\redbeardWest1.xnb
+C:\Users\nti\Desktop\VikingSimulator 2\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\redbeardEast1.xnb
+C:\Users\nti\Desktop\VikingSimulator 2\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\Hurt.xnb
+C:\Users\nti\Desktop\VikingSimulator 2\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\greyBeardWon.xnb
+C:\Users\nti\Desktop\VikingSimulator 2\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\redBeardWon.xnb
+C:\Users\nti\Desktop\VikingSimulator 2\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\Fireball.xnb
+C:\Users\nti\Desktop\VikingSimulator 2\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\MenuExitText.xnb
+C:\Users\nti\Desktop\VikingSimulator 2\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\MenuPlayText.xnb
+C:\Users\nti\Desktop\VikingSimulator 2\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\MenuRestartText.xnb
+C:\Users\nti\Desktop\VikingSimulator 2\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\MenuLogoImage.xnb
+C:\Users\nti\Desktop\VikingSimulator 2\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\cow.xnb
+C:\Users\nti\Desktop\VikingSimulator 2\VikingSimulator\VikingSimulator\bin\x86\Debug\VikingSimulator.exe
+C:\Users\nti\Desktop\VikingSimulator 2\VikingSimulator\VikingSimulator\bin\x86\Debug\VikingSimulator.pdb
+C:\Users\marten\Desktop\VikingSimulator 2\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\greybeardWest1.xnb
+C:\Users\marten\Desktop\VikingSimulator 2\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\greybeardEast1.xnb
+C:\Users\marten\Desktop\VikingSimulator 2\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\redbeardWest1.xnb
+C:\Users\marten\Desktop\VikingSimulator 2\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\redbeardEast1.xnb
+C:\Users\marten\Desktop\VikingSimulator 2\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\Hurt.xnb
+C:\Users\marten\Desktop\VikingSimulator 2\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\greyBeardWon.xnb
+C:\Users\marten\Desktop\VikingSimulator 2\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\redBeardWon.xnb
+C:\Users\marten\Desktop\VikingSimulator 2\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\Fireball.xnb
+C:\Users\marten\Desktop\VikingSimulator 2\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\MenuExitText.xnb
+C:\Users\marten\Desktop\VikingSimulator 2\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\MenuPlayText.xnb
+C:\Users\marten\Desktop\VikingSimulator 2\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\MenuRestartText.xnb
+C:\Users\marten\Desktop\VikingSimulator 2\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\MenuLogoImage.xnb
+C:\Users\marten\Desktop\VikingSimulator 2\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\cow.xnb
+C:\Users\marten\Desktop\VikingSimulator 2\VikingSimulator\VikingSimulator\bin\x86\Debug\VikingSimulator.exe
+C:\Users\marten\Desktop\VikingSimulator 2\VikingSimulator\VikingSimulator\bin\x86\Debug\VikingSimulator.pdb
+C:\Users\marten\Desktop\VikingSimulator 2\VikingSimulator\VikingSimulator\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\marten\Desktop\VikingSimulator 2\VikingSimulator\VikingSimulator\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\marten\Desktop\VikingSimulator 2\VikingSimulator\VikingSimulator\obj\x86\Debug\VikingSimulator.exe
+C:\Users\marten\Desktop\VikingSimulator 2\VikingSimulator\VikingSimulator\obj\x86\Debug\VikingSimulator.pdb
+C:\Users\nti\Desktop\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\MenuExitText.xnb
+C:\Users\nti\Desktop\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\MenuPlayText.xnb
+C:\Users\nti\Desktop\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\MenuRestartText.xnb
+C:\Users\nti\Desktop\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\MenuLogoImage.xnb
+C:\Users\nti\Desktop\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\cow.xnb
+C:\Users\marten\Desktop\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\Hurt.xnb
+C:\Users\marten\Desktop\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\greyBeardWon.xnb
+C:\Users\marten\Desktop\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\redBeardWon.xnb
+C:\Users\marten\Desktop\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\Fireball.xnb
+C:\Users\marten\Desktop\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\MenuExitText.xnb
+C:\Users\marten\Desktop\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\MenuPlayText.xnb
+C:\Users\marten\Desktop\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\MenuRestartText.xnb
+C:\Users\marten\Desktop\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\MenuLogoImage.xnb
+C:\Users\marten\Desktop\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\cow.xnb
+C:\Users\marten\Desktop\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\Font.xnb
+C:\Users\nti\Desktop\VikingSimulator\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\greybeardWest1.xnb
+C:\Users\nti\Desktop\VikingSimulator\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\greybeardEast1.xnb
+C:\Users\nti\Desktop\VikingSimulator\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\redbeardWest1.xnb
+C:\Users\nti\Desktop\VikingSimulator\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\redbeardEast1.xnb
+C:\Users\nti\Desktop\VikingSimulator\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\Hurt.xnb
+C:\Users\nti\Desktop\VikingSimulator\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\greyBeardWon.xnb
+C:\Users\nti\Desktop\VikingSimulator\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\redBeardWon.xnb
+C:\Users\nti\Desktop\VikingSimulator\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\Fireball.xnb
+C:\Users\nti\Desktop\VikingSimulator\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\MenuExitText.xnb
+C:\Users\nti\Desktop\VikingSimulator\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\MenuPlayText.xnb
+C:\Users\nti\Desktop\VikingSimulator\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\MenuRestartText.xnb
+C:\Users\nti\Desktop\VikingSimulator\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\MenuLogoImage.xnb
+C:\Users\nti\Desktop\VikingSimulator\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\cow.xnb
+C:\Users\nti\Desktop\VikingSimulator\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\Font.xnb
+C:\Users\nti\Desktop\VikingSimulator\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\VikingSimulator.exe
+C:\Users\nti\Desktop\VikingSimulator\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\VikingSimulator.pdb
+C:\Users\nti\Desktop\VikingSimulator\VikingSimulator\VikingSimulator\VikingSimulator\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\nti\Desktop\VikingSimulator\VikingSimulator\VikingSimulator\VikingSimulator\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\nti\Desktop\VikingSimulator\VikingSimulator\VikingSimulator\VikingSimulator\obj\x86\Debug\VikingSimulator.exe
+C:\Users\nti\Desktop\VikingSimulator\VikingSimulator\VikingSimulator\VikingSimulator\obj\x86\Debug\VikingSimulator.pdb
+C:\Users\nti\Desktop\VikingSimulator\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\mjod.xnb
+C:\Users\nti\Desktop\VikingSimulator\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\kottbulle.xnb
+C:\Users\marten\Desktop\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\mjod.xnb
+C:\Users\marten\Desktop\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\kottbulle.xnb
+C:\Users\marten\Desktop\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\bomb.xnb
+C:\Users\marten\Desktop\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\sounds\A det satt som en smäck.xnb
+C:\Users\marten\Desktop\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\sounds\A du det där va gott.xnb
+C:\Users\marten\Desktop\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\sounds\Amen, ser man en ko.xnb
+C:\Users\marten\Desktop\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\sounds\auw.xnb
+C:\Users\marten\Desktop\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\sounds\Bom.xnb
+C:\Users\marten\Desktop\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\sounds\Bullar.xnb
+C:\Users\marten\Desktop\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\sounds\Buttköllar.xnb
+C:\Users\marten\Desktop\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\sounds\Det här va fan rätt gott ändå.xnb
+C:\Users\marten\Desktop\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\sounds\Ejmen Aeej.xnb
+C:\Users\marten\Desktop\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\sounds\Ejmen fyfan jag sa ju att jag var snyggast.xnb
+C:\Users\marten\Desktop\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\sounds\En bomb!.xnb
+C:\Users\marten\Desktop\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\sounds\Fyfan.xnb
+C:\Users\marten\Desktop\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\sounds\Huh.xnb
+C:\Users\marten\Desktop\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\sounds\Ja, ko smakar ko.xnb
+C:\Users\marten\Desktop\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\sounds\Jaa.xnb
+C:\Users\marten\Desktop\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\sounds\Käk.xnb
+C:\Users\marten\Desktop\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\sounds\Men ajdå!.xnb
+C:\Users\marten\Desktop\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\sounds\Men ja, vad glad jag blir.xnb
+C:\Users\marten\Desktop\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\sounds\Mjöd.xnb
+C:\Users\marten\Desktop\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\sounds\Mu på dig.xnb
+C:\Users\marten\Desktop\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\sounds\Mu.xnb
+C:\Users\marten\Desktop\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\sounds\Muuh.xnb
+C:\Users\marten\Desktop\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\sounds\Nej fyfan.xnb
+C:\Users\marten\Desktop\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\sounds\nomnom1.xnb
+C:\Users\marten\Desktop\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\sounds\nomnom2.xnb
+C:\Users\marten\Desktop\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\sounds\Nu ska de smällas.xnb
+C:\Users\marten\Desktop\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\sounds\Precis som mamma brukade baka dom.xnb
+C:\Users\marten\Desktop\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\sounds\Smärta.xnb
+C:\Users\marten\Desktop\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\sounds\Sprit.xnb
+C:\Users\marten\Desktop\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\sounds\Sprängämnen.xnb
+C:\Users\marten\Desktop\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\sounds\Starköl.xnb
+C:\Users\marten\Desktop\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\sounds\Vätska, ge mig nu.xnb
+C:\Users\marten\Desktop\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\sounds\Vätska.xnb
+C:\Users\marten\Desktop\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\sounds\Åh här ska drickas.xnb
+C:\Users\marten\Desktop\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\sounds\Åh.xnb
+C:\Users\marten\Desktop\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\sounds\Main Theme.xnb
+C:\Users\marten\Desktop\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\sounds\Kan jag verkligen äta ko.xnb
+C:\Users\nti\Programmering\VikingSimulator 6\VikingSimulator\VikingSimulator\obj\x86\Debug\VikingSimulator.exe
+C:\Users\nti\Programmering\VikingSimulator 6\VikingSimulator\VikingSimulator\obj\x86\Debug\VikingSimulator.pdb
+C:\Users\nti\Programmering\VikingSimulator 6\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\greybeardWest1.xnb
+C:\Users\nti\Programmering\VikingSimulator 6\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\greybeardEast1.xnb
+C:\Users\nti\Programmering\VikingSimulator 6\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\redbeardWest1.xnb
+C:\Users\nti\Programmering\VikingSimulator 6\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\redbeardEast1.xnb
+C:\Users\nti\Programmering\VikingSimulator 6\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\Hurt.xnb
+C:\Users\nti\Programmering\VikingSimulator 6\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\greyBeardWon.xnb
+C:\Users\nti\Programmering\VikingSimulator 6\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\redBeardWon.xnb
+C:\Users\nti\Programmering\VikingSimulator 6\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\Fireball.xnb
+C:\Users\nti\Programmering\VikingSimulator 6\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\MenuExitText.xnb
+C:\Users\nti\Programmering\VikingSimulator 6\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\MenuPlayText.xnb
+C:\Users\nti\Programmering\VikingSimulator 6\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\MenuRestartText.xnb
+C:\Users\nti\Programmering\VikingSimulator 6\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\MenuLogoImage.xnb
+C:\Users\nti\Programmering\VikingSimulator 6\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\cow.xnb
+C:\Users\nti\Programmering\VikingSimulator 6\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\bomb.xnb
+C:\Users\nti\Programmering\VikingSimulator 6\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\Font.xnb
+C:\Users\nti\Programmering\VikingSimulator 6\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\sounds\A det satt som en smäck.xnb
+C:\Users\nti\Programmering\VikingSimulator 6\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\sounds\A du det där va gott.xnb
+C:\Users\nti\Programmering\VikingSimulator 6\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\sounds\auw.xnb
+C:\Users\nti\Programmering\VikingSimulator 6\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\sounds\Bom.xnb
+C:\Users\nti\Programmering\VikingSimulator 6\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\sounds\Bullar.xnb
+C:\Users\nti\Programmering\VikingSimulator 6\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\sounds\Buttköllar.xnb
+C:\Users\nti\Programmering\VikingSimulator 6\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\sounds\Det här va fan rätt gott ändå.xnb
+C:\Users\nti\Programmering\VikingSimulator 6\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\sounds\Ejmen Aeej.xnb
+C:\Users\nti\Programmering\VikingSimulator 6\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\sounds\Ejmen fyfan jag sa ju att jag var snyggast.xnb
+C:\Users\nti\Programmering\VikingSimulator 6\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\sounds\En bomb!.xnb
+C:\Users\nti\Programmering\VikingSimulator 6\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\sounds\Fyfan.xnb
+C:\Users\nti\Programmering\VikingSimulator 6\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\sounds\Huh.xnb
+C:\Users\nti\Programmering\VikingSimulator 6\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\sounds\Ja, ko smakar ko.xnb
+C:\Users\nti\Programmering\VikingSimulator 6\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\sounds\Jaa.xnb
+C:\Users\nti\Programmering\VikingSimulator 6\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\sounds\Kan jag verkligen äta ko.xnb
+C:\Users\nti\Programmering\VikingSimulator 6\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\sounds\Käk.xnb
+C:\Users\nti\Programmering\VikingSimulator 6\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\sounds\Men ajdå!.xnb
+C:\Users\nti\Programmering\VikingSimulator 6\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\sounds\Men ja, vad glad jag blir.xnb
+C:\Users\nti\Programmering\VikingSimulator 6\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\sounds\Mjöd.xnb
+C:\Users\nti\Programmering\VikingSimulator 6\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\sounds\Mu på dig.xnb
+C:\Users\nti\Programmering\VikingSimulator 6\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\sounds\Mu.xnb
+C:\Users\nti\Programmering\VikingSimulator 6\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\sounds\Muuh.xnb
+C:\Users\nti\Programmering\VikingSimulator 6\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\sounds\Nej fyfan.xnb
+C:\Users\nti\Programmering\VikingSimulator 6\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\sounds\nomnom1.xnb
+C:\Users\nti\Programmering\VikingSimulator 6\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\sounds\nomnom2.xnb
+C:\Users\nti\Programmering\VikingSimulator 6\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\sounds\Nu ska de smällas.xnb
+C:\Users\nti\Programmering\VikingSimulator 6\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\sounds\Precis som mamma brukade baka dom.xnb
+C:\Users\nti\Programmering\VikingSimulator 6\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\sounds\Smärta.xnb
+C:\Users\nti\Programmering\VikingSimulator 6\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\sounds\Sprit.xnb
+C:\Users\nti\Programmering\VikingSimulator 6\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\sounds\Sprängämnen.xnb
+C:\Users\nti\Programmering\VikingSimulator 6\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\sounds\Starköl.xnb
+C:\Users\nti\Programmering\VikingSimulator 6\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\sounds\Vätska, ge mig nu.xnb
+C:\Users\nti\Programmering\VikingSimulator 6\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\sounds\Vätska.xnb
+C:\Users\nti\Programmering\VikingSimulator 6\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\sounds\Åh här ska drickas.xnb
+C:\Users\nti\Programmering\VikingSimulator 6\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\sounds\Åh.xnb
+C:\Users\nti\Programmering\VikingSimulator 6\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\sounds\Main Theme.xnb
+C:\Users\nti\Programmering\VikingSimulator 6\VikingSimulator\VikingSimulator\bin\x86\Debug\VikingSimulator.exe
+C:\Users\nti\Programmering\VikingSimulator 6\VikingSimulator\VikingSimulator\bin\x86\Debug\VikingSimulator.pdb
+C:\Users\nti\Programmering\VikingSimulator 6\VikingSimulator\VikingSimulator\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\nti\Programmering\VikingSimulator 6\VikingSimulator\VikingSimulator\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\nti\Programmering\VikingSimulator 6\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\köttbulle.xnb
+C:\Users\nti\Programmering\VikingSimulator 6\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\greybeardHurt.xnb
+C:\Users\nti\Programmering\VikingSimulator 6\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\redbeardHurt.xnb
+C:\Users\nti\Programmering\VikingSimulator 6\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\mjöd.xnb
+C:\Users\nti\Programmering\VikingSimulator 8\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\greybeardWest1.xnb
+C:\Users\nti\Programmering\VikingSimulator 8\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\greybeardEast1.xnb
+C:\Users\nti\Programmering\VikingSimulator 8\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\redbeardWest1.xnb
+C:\Users\nti\Programmering\VikingSimulator 8\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\redbeardEast1.xnb
+C:\Users\nti\Programmering\VikingSimulator 8\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\Hurt.xnb
+C:\Users\nti\Programmering\VikingSimulator 8\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\greyBeardWon.xnb
+C:\Users\nti\Programmering\VikingSimulator 8\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\redBeardWon.xnb
+C:\Users\nti\Programmering\VikingSimulator 8\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\Fireball.xnb
+C:\Users\nti\Programmering\VikingSimulator 8\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\MenuExitText.xnb
+C:\Users\nti\Programmering\VikingSimulator 8\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\MenuPlayText.xnb
+C:\Users\nti\Programmering\VikingSimulator 8\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\MenuRestartText.xnb
+C:\Users\nti\Programmering\VikingSimulator 8\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\MenuLogoImage.xnb
+C:\Users\nti\Programmering\VikingSimulator 8\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\cow.xnb
+C:\Users\nti\Programmering\VikingSimulator 8\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\bomb.xnb
+C:\Users\nti\Programmering\VikingSimulator 8\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\köttbulle.xnb
+C:\Users\nti\Programmering\VikingSimulator 8\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\greybeardHurt.xnb
+C:\Users\nti\Programmering\VikingSimulator 8\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\redbeardHurt.xnb
+C:\Users\nti\Programmering\VikingSimulator 8\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\mjöd.xnb
+C:\Users\nti\Programmering\VikingSimulator 8\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\Font.xnb
+C:\Users\nti\Programmering\VikingSimulator 8\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\sounds\A det satt som en smäck.xnb
+C:\Users\nti\Programmering\VikingSimulator 8\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\sounds\A du det där va gott.xnb
+C:\Users\nti\Programmering\VikingSimulator 8\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\sounds\auw.xnb
+C:\Users\nti\Programmering\VikingSimulator 8\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\sounds\Bom.xnb
+C:\Users\nti\Programmering\VikingSimulator 8\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\sounds\Bullar.xnb
+C:\Users\nti\Programmering\VikingSimulator 8\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\sounds\Buttköllar.xnb
+C:\Users\nti\Programmering\VikingSimulator 8\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\sounds\Det här va fan rätt gott ändå.xnb
+C:\Users\nti\Programmering\VikingSimulator 8\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\sounds\Ejmen Aeej.xnb
+C:\Users\nti\Programmering\VikingSimulator 8\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\sounds\Ejmen fyfan jag sa ju att jag var snyggast.xnb
+C:\Users\nti\Programmering\VikingSimulator 8\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\sounds\En bomb!.xnb
+C:\Users\nti\Programmering\VikingSimulator 8\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\sounds\Fyfan.xnb
+C:\Users\nti\Programmering\VikingSimulator 8\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\sounds\Huh.xnb
+C:\Users\nti\Programmering\VikingSimulator 8\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\sounds\Ja, ko smakar ko.xnb
+C:\Users\nti\Programmering\VikingSimulator 8\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\sounds\Jaa.xnb
+C:\Users\nti\Programmering\VikingSimulator 8\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\sounds\Kan jag verkligen äta ko.xnb
+C:\Users\nti\Programmering\VikingSimulator 8\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\sounds\Käk.xnb
+C:\Users\nti\Programmering\VikingSimulator 8\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\sounds\Men ajdå!.xnb
+C:\Users\nti\Programmering\VikingSimulator 8\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\sounds\Men ja, vad glad jag blir.xnb
+C:\Users\nti\Programmering\VikingSimulator 8\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\sounds\Mjöd.xnb
+C:\Users\nti\Programmering\VikingSimulator 8\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\sounds\Mu på dig.xnb
+C:\Users\nti\Programmering\VikingSimulator 8\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\sounds\Mu.xnb
+C:\Users\nti\Programmering\VikingSimulator 8\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\sounds\Muuh.xnb
+C:\Users\nti\Programmering\VikingSimulator 8\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\sounds\Nej fyfan.xnb
+C:\Users\nti\Programmering\VikingSimulator 8\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\sounds\nomnom1.xnb
+C:\Users\nti\Programmering\VikingSimulator 8\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\sounds\nomnom2.xnb
+C:\Users\nti\Programmering\VikingSimulator 8\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\sounds\Nu ska de smällas.xnb
+C:\Users\nti\Programmering\VikingSimulator 8\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\sounds\Precis som mamma brukade baka dom.xnb
+C:\Users\nti\Programmering\VikingSimulator 8\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\sounds\Smärta.xnb
+C:\Users\nti\Programmering\VikingSimulator 8\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\sounds\Sprit.xnb
+C:\Users\nti\Programmering\VikingSimulator 8\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\sounds\Sprängämnen.xnb
+C:\Users\nti\Programmering\VikingSimulator 8\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\sounds\Starköl.xnb
+C:\Users\nti\Programmering\VikingSimulator 8\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\sounds\Vätska, ge mig nu.xnb
+C:\Users\nti\Programmering\VikingSimulator 8\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\sounds\Vätska.xnb
+C:\Users\nti\Programmering\VikingSimulator 8\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\sounds\Åh här ska drickas.xnb
+C:\Users\nti\Programmering\VikingSimulator 8\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\sounds\Åh.xnb
+C:\Users\nti\Programmering\VikingSimulator 8\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\sounds\Main Theme.xnb
+C:\Users\nti\Programmering\VikingSimulator 8\VikingSimulator\VikingSimulator\bin\x86\Debug\VikingSimulator.exe
+C:\Users\nti\Programmering\VikingSimulator 8\VikingSimulator\VikingSimulator\bin\x86\Debug\VikingSimulator.pdb
+C:\Users\nti\Programmering\VikingSimulator 8\VikingSimulator\VikingSimulator\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\nti\Programmering\VikingSimulator 8\VikingSimulator\VikingSimulator\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\nti\Programmering\VikingSimulator 8\VikingSimulator\VikingSimulator\obj\x86\Debug\VikingSimulator.exe
+C:\Users\nti\Programmering\VikingSimulator 8\VikingSimulator\VikingSimulator\obj\x86\Debug\VikingSimulator.pdb
+C:\Users\nti\Programmering\VikingSimulator 8\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\background.xnb
+C:\Users\marten\Desktop\VikingSimulator 8\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\greybeardWest1.xnb
+C:\Users\marten\Desktop\VikingSimulator 8\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\greybeardEast1.xnb
+C:\Users\marten\Desktop\VikingSimulator 8\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\redbeardWest1.xnb
+C:\Users\marten\Desktop\VikingSimulator 8\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\redbeardEast1.xnb
+C:\Users\marten\Desktop\VikingSimulator 8\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\Hurt.xnb
+C:\Users\marten\Desktop\VikingSimulator 8\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\greyBeardWon.xnb
+C:\Users\marten\Desktop\VikingSimulator 8\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\redBeardWon.xnb
+C:\Users\marten\Desktop\VikingSimulator 8\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\Fireball.xnb
+C:\Users\marten\Desktop\VikingSimulator 8\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\MenuExitText.xnb
+C:\Users\marten\Desktop\VikingSimulator 8\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\MenuPlayText.xnb
+C:\Users\marten\Desktop\VikingSimulator 8\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\MenuRestartText.xnb
+C:\Users\marten\Desktop\VikingSimulator 8\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\MenuLogoImage.xnb
+C:\Users\marten\Desktop\VikingSimulator 8\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\cow.xnb
+C:\Users\marten\Desktop\VikingSimulator 8\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\bomb.xnb
+C:\Users\marten\Desktop\VikingSimulator 8\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\köttbulle.xnb
+C:\Users\marten\Desktop\VikingSimulator 8\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\greybeardHurt.xnb
+C:\Users\marten\Desktop\VikingSimulator 8\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\redbeardHurt.xnb
+C:\Users\marten\Desktop\VikingSimulator 8\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\background.xnb
+C:\Users\marten\Desktop\VikingSimulator 8\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\Font.xnb
+C:\Users\marten\Desktop\VikingSimulator 8\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\sounds\A det satt som en smäck.xnb
+C:\Users\marten\Desktop\VikingSimulator 8\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\sounds\A du det där va gott.xnb
+C:\Users\marten\Desktop\VikingSimulator 8\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\sounds\auw.xnb
+C:\Users\marten\Desktop\VikingSimulator 8\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\sounds\Bom.xnb
+C:\Users\marten\Desktop\VikingSimulator 8\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\sounds\Bullar.xnb
+C:\Users\marten\Desktop\VikingSimulator 8\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\sounds\Buttköllar.xnb
+C:\Users\marten\Desktop\VikingSimulator 8\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\sounds\Det här va fan rätt gott ändå.xnb
+C:\Users\marten\Desktop\VikingSimulator 8\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\sounds\Ejmen Aeej.xnb
+C:\Users\marten\Desktop\VikingSimulator 8\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\sounds\Ejmen fyfan jag sa ju att jag var snyggast.xnb
+C:\Users\marten\Desktop\VikingSimulator 8\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\sounds\En bomb!.xnb
+C:\Users\marten\Desktop\VikingSimulator 8\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\sounds\Fyfan.xnb
+C:\Users\marten\Desktop\VikingSimulator 8\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\sounds\Huh.xnb
+C:\Users\marten\Desktop\VikingSimulator 8\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\sounds\Ja, ko smakar ko.xnb
+C:\Users\marten\Desktop\VikingSimulator 8\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\sounds\Jaa.xnb
+C:\Users\marten\Desktop\VikingSimulator 8\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\sounds\Kan jag verkligen äta ko.xnb
+C:\Users\marten\Desktop\VikingSimulator 8\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\sounds\Käk.xnb
+C:\Users\marten\Desktop\VikingSimulator 8\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\sounds\Men ajdå!.xnb
+C:\Users\marten\Desktop\VikingSimulator 8\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\sounds\Men ja, vad glad jag blir.xnb
+C:\Users\marten\Desktop\VikingSimulator 8\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\sounds\Mjöd.xnb
+C:\Users\marten\Desktop\VikingSimulator 8\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\sounds\Mu på dig.xnb
+C:\Users\marten\Desktop\VikingSimulator 8\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\sounds\Mu.xnb
+C:\Users\marten\Desktop\VikingSimulator 8\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\sounds\Muuh.xnb
+C:\Users\marten\Desktop\VikingSimulator 8\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\sounds\Nej fyfan.xnb
+C:\Users\marten\Desktop\VikingSimulator 8\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\sounds\nomnom1.xnb
+C:\Users\marten\Desktop\VikingSimulator 8\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\sounds\nomnom2.xnb
+C:\Users\marten\Desktop\VikingSimulator 8\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\sounds\Nu ska de smällas.xnb
+C:\Users\marten\Desktop\VikingSimulator 8\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\sounds\Precis som mamma brukade baka dom.xnb
+C:\Users\marten\Desktop\VikingSimulator 8\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\sounds\Smärta.xnb
+C:\Users\marten\Desktop\VikingSimulator 8\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\sounds\Sprit.xnb
+C:\Users\marten\Desktop\VikingSimulator 8\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\sounds\Sprängämnen.xnb
+C:\Users\marten\Desktop\VikingSimulator 8\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\sounds\Starköl.xnb
+C:\Users\marten\Desktop\VikingSimulator 8\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\sounds\Vätska, ge mig nu.xnb
+C:\Users\marten\Desktop\VikingSimulator 8\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\sounds\Vätska.xnb
+C:\Users\marten\Desktop\VikingSimulator 8\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\sounds\Åh här ska drickas.xnb
+C:\Users\marten\Desktop\VikingSimulator 8\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\sounds\Åh.xnb
+C:\Users\marten\Desktop\VikingSimulator 8\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\sounds\Main Theme.xnb
+C:\Users\marten\Desktop\VikingSimulator 8\VikingSimulator\VikingSimulator\bin\x86\Debug\VikingSimulator.exe
+C:\Users\marten\Desktop\VikingSimulator 8\VikingSimulator\VikingSimulator\bin\x86\Debug\VikingSimulator.pdb
+C:\Users\marten\Desktop\VikingSimulator 8\VikingSimulator\VikingSimulator\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\marten\Desktop\VikingSimulator 8\VikingSimulator\VikingSimulator\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\marten\Desktop\VikingSimulator 8\VikingSimulator\VikingSimulator\obj\x86\Debug\VikingSimulator.exe
+C:\Users\marten\Desktop\VikingSimulator 8\VikingSimulator\VikingSimulator\obj\x86\Debug\VikingSimulator.pdb
+C:\Users\marten\Desktop\VikingSimulator 8\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\mjod.xnb
+C:\Users\marten\Desktop\VikingSimulator 8\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\redbeardWin.xnb
+C:\Users\marten\Desktop\VikingSimulator 8\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\greybeardWin.xnb

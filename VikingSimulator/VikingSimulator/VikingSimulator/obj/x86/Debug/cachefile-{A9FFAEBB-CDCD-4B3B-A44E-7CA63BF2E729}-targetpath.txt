@@ -1,0 +1,16 @@
+Content\greybeardWest1.xnb
+Content\greybeardEast1.xnb
+Content\redbeardWest1.xnb
+Content\redbeardEast1.xnb
+Content\Hurt.xnb
+Content\greyBeardWon.xnb
+Content\redBeardWon.xnb
+Content\Fireball.xnb
+Content\MenuExitText.xnb
+Content\MenuPlayText.xnb
+Content\MenuRestartText.xnb
+Content\MenuLogoImage.xnb
+Content\cow.xnb
+Content\mjod.xnb
+Content\kottbulle.xnb
+Content\Font.xnb

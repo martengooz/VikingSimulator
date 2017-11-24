@@ -1,0 +1,190 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>greybeardWest1.png</Source>
+      <Name>greybeardWest1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\nti\Programmering\VikingSimulator 6\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\greybeardWest1.xnb</Output>
+      <Time>2013-03-18T11:02:00+01:00</Time>
+    </Item>
+    <Item>
+      <Source>greybeardEast1.png</Source>
+      <Name>greybeardEast1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\nti\Programmering\VikingSimulator 6\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\greybeardEast1.xnb</Output>
+      <Time>2013-05-04T18:13:26.1919431+02:00</Time>
+    </Item>
+    <Item>
+      <Source>redbeardWest1.png</Source>
+      <Name>redbeardWest1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\nti\Programmering\VikingSimulator 6\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\redbeardWest1.xnb</Output>
+      <Time>2013-03-18T11:02:00+01:00</Time>
+    </Item>
+    <Item>
+      <Source>redbeardEast1.png</Source>
+      <Name>redbeardEast1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\nti\Programmering\VikingSimulator 6\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\redbeardEast1.xnb</Output>
+      <Time>2013-03-18T11:02:00+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Hurt.png</Source>
+      <Name>Hurt</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\nti\Programmering\VikingSimulator 6\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\Hurt.xnb</Output>
+      <Time>2013-03-20T15:36:40+01:00</Time>
+    </Item>
+    <Item>
+      <Source>greyBeardWon.png</Source>
+      <Name>greyBeardWon</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\nti\Programmering\VikingSimulator 6\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\greyBeardWon.xnb</Output>
+      <Time>2013-03-25T10:53:52+01:00</Time>
+    </Item>
+    <Item>
+      <Source>redBeardWon.png</Source>
+      <Name>redBeardWon</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\nti\Programmering\VikingSimulator 6\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\redBeardWon.xnb</Output>
+      <Time>2013-03-25T10:53:52+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Fireball.png</Source>
+      <Name>Fireball</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\nti\Programmering\VikingSimulator 6\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\Fireball.xnb</Output>
+      <Time>2013-04-08T10:46:02+02:00</Time>
+    </Item>
+    <Item>
+      <Source>MenuExitText.png</Source>
+      <Name>MenuExitText</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\nti\Programmering\VikingSimulator 6\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\MenuExitText.xnb</Output>
+      <Time>2013-04-16T12:25:40.1051251+02:00</Time>
+    </Item>
+    <Item>
+      <Source>MenuPlayText.png</Source>
+      <Name>MenuPlayText</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\nti\Programmering\VikingSimulator 6\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\MenuPlayText.xnb</Output>
+      <Time>2013-04-16T12:25:40.1091253+02:00</Time>
+    </Item>
+    <Item>
+      <Source>MenuRestartText.png</Source>
+      <Name>MenuRestartText</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\nti\Programmering\VikingSimulator 6\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\MenuRestartText.xnb</Output>
+      <Time>2013-04-16T12:25:40.1171258+02:00</Time>
+    </Item>
+    <Item>
+      <Source>MenuLogoImage.png</Source>
+      <Name>MenuLogoImage</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\nti\Programmering\VikingSimulator 6\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\MenuLogoImage.xnb</Output>
+      <Time>2013-04-17T15:21:57.1980123+02:00</Time>
+    </Item>
+    <Item>
+      <Source>cow.png</Source>
+      <Name>cow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\nti\Programmering\VikingSimulator 6\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\cow.xnb</Output>
+      <Time>2013-05-06T19:27:33.3460565+02:00</Time>
+    </Item>
+    <Item>
+      <Source>mjod.png</Source>
+      <Name>mjod</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\nti\Programmering\VikingSimulator 6\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\mjod.xnb</Output>
+      <Time>2013-05-15T15:33:01.9605858+02:00</Time>
+    </Item>
+    <Item>
+      <Source>kottbulle.png</Source>
+      <Name>kottbulle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\nti\Programmering\VikingSimulator 6\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\kottbulle.xnb</Output>
+      <Time>2013-05-15T16:16:39.8483204+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Font.spritefont</Source>
+      <Name>Font</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\nti\Programmering\VikingSimulator 6\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\Font.xnb</Output>
+      <Time>2013-05-15T16:30:32.6319529+02:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\nti\Programmering\VikingSimulator 6\VikingSimulator\VikingSimulator\VikingSimulatorContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\nti\Programmering\VikingSimulator 6\VikingSimulator\VikingSimulator\VikingSimulator\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\nti\Programmering\VikingSimulator 6\VikingSimulator\VikingSimulator\VikingSimulatorContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\nti\Programmering\VikingSimulator 6\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2013-03-11T10:45:43.8578847+01:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

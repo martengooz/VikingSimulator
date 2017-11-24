@@ -1,0 +1,194 @@
+C:\Users\nti\Documents\GitHub\Bananaviking\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\VikingSimulator.exe
+C:\Users\nti\Documents\GitHub\Bananaviking\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\VikingSimulator.pdb
+C:\Users\nti\Documents\GitHub\Bananaviking\VikingSimulator\VikingSimulator\VikingSimulator\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\nti\Documents\GitHub\Bananaviking\VikingSimulator\VikingSimulator\VikingSimulator\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\nti\Documents\GitHub\Bananaviking\VikingSimulator\VikingSimulator\VikingSimulator\obj\x86\Debug\VikingSimulator.exe
+C:\Users\nti\Documents\GitHub\Bananaviking\VikingSimulator\VikingSimulator\VikingSimulator\obj\x86\Debug\VikingSimulator.pdb
+C:\Users\nti\Documents\GitHub\Bananaviking\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\greybeardEast1.xnb
+C:\Users\nti\Documents\GitHub\Bananaviking\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\greybeardWest1.xnb
+C:\Users\nti\Documents\GitHub\Bananaviking\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\redbeardEast1.xnb
+C:\Users\nti\Documents\GitHub\Bananaviking\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\redbeardWest1.xnb
+C:\Users\marten\Desktop\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\greybeardWest1.xnb
+C:\Users\marten\Desktop\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\greybeardEast1.xnb
+C:\Users\marten\Desktop\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\redbeardWest1.xnb
+C:\Users\marten\Desktop\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\redbeardEast1.xnb
+C:\Users\marten\Desktop\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\VikingSimulator.exe
+C:\Users\marten\Desktop\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\VikingSimulator.pdb
+C:\Users\marten\Desktop\VikingSimulator\VikingSimulator\VikingSimulator\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\marten\Desktop\VikingSimulator\VikingSimulator\VikingSimulator\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\marten\Desktop\VikingSimulator\VikingSimulator\VikingSimulator\obj\x86\Debug\VikingSimulator.exe
+C:\Users\marten\Desktop\VikingSimulator\VikingSimulator\VikingSimulator\obj\x86\Debug\VikingSimulator.pdb
+C:\Users\nti\Desktop\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\greybeardWest1.xnb
+C:\Users\nti\Desktop\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\greybeardEast1.xnb
+C:\Users\nti\Desktop\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\redbeardWest1.xnb
+C:\Users\nti\Desktop\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\redbeardEast1.xnb
+C:\Users\nti\Desktop\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\VikingSimulator.exe
+C:\Users\nti\Desktop\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\VikingSimulator.pdb
+C:\Users\nti\Desktop\VikingSimulator\VikingSimulator\VikingSimulator\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\nti\Desktop\VikingSimulator\VikingSimulator\VikingSimulator\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\nti\Desktop\VikingSimulator\VikingSimulator\VikingSimulator\obj\x86\Debug\VikingSimulator.exe
+C:\Users\nti\Desktop\VikingSimulator\VikingSimulator\VikingSimulator\obj\x86\Debug\VikingSimulator.pdb
+C:\Users\nti\VikingSimulator\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\greybeardWest1.xnb
+C:\Users\nti\VikingSimulator\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\greybeardEast1.xnb
+C:\Users\nti\VikingSimulator\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\redbeardWest1.xnb
+C:\Users\nti\VikingSimulator\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\redbeardEast1.xnb
+C:\Users\nti\VikingSimulator\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\VikingSimulator.exe
+C:\Users\nti\VikingSimulator\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\VikingSimulator.pdb
+C:\Users\nti\VikingSimulator\VikingSimulator\VikingSimulator\VikingSimulator\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\nti\VikingSimulator\VikingSimulator\VikingSimulator\VikingSimulator\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\nti\VikingSimulator\VikingSimulator\VikingSimulator\VikingSimulator\obj\x86\Debug\VikingSimulator.exe
+C:\Users\nti\VikingSimulator\VikingSimulator\VikingSimulator\VikingSimulator\obj\x86\Debug\VikingSimulator.pdb
+C:\Users\nti\VikingSimulator\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\Hurt.xnb
+C:\Users\nti\VikingSimulator\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\healthBar.xnb
+C:\Users\nti\Desktop\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\Hurt.xnb
+C:\Users\nti\Desktop\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\greyBeardWon.xnb
+C:\Users\nti\Desktop\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\redBeardWon.xnb
+C:\Users\nti\Desktop\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\Fireball.xnb
+E:\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\greybeardWest1.xnb
+E:\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\greybeardEast1.xnb
+E:\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\redbeardWest1.xnb
+E:\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\redbeardEast1.xnb
+E:\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\Hurt.xnb
+E:\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\greyBeardWon.xnb
+E:\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\redBeardWon.xnb
+E:\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\Fireball.xnb
+E:\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\MenuExit.xnb
+E:\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\MenuPlay.xnb
+E:\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\VikingSimulator.exe
+E:\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\VikingSimulator.pdb
+E:\VikingSimulator\VikingSimulator\VikingSimulator\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\VikingSimulator\VikingSimulator\VikingSimulator\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\VikingSimulator\VikingSimulator\VikingSimulator\obj\x86\Debug\VikingSimulator.exe
+E:\VikingSimulator\VikingSimulator\VikingSimulator\obj\x86\Debug\VikingSimulator.pdb
+C:\Users\nti\Desktop\VikingSimulator gabbe\VikingSimulator\VikingSimulator\VikingSimulator\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\nti\Desktop\VikingSimulator gabbe\VikingSimulator\VikingSimulator\VikingSimulator\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\nti\Desktop\VikingSimulator gabbe\VikingSimulator\VikingSimulator\VikingSimulator\obj\x86\Debug\VikingSimulator.exe
+C:\Users\nti\Desktop\VikingSimulator gabbe\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\greybeardWest1.xnb
+C:\Users\nti\Desktop\VikingSimulator gabbe\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\greybeardEast1.xnb
+C:\Users\nti\Desktop\VikingSimulator gabbe\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\redbeardWest1.xnb
+C:\Users\nti\Desktop\VikingSimulator gabbe\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\redbeardEast1.xnb
+C:\Users\nti\Desktop\VikingSimulator gabbe\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\Hurt.xnb
+C:\Users\nti\Desktop\VikingSimulator gabbe\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\greyBeardWon.xnb
+C:\Users\nti\Desktop\VikingSimulator gabbe\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\redBeardWon.xnb
+C:\Users\nti\Desktop\VikingSimulator gabbe\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\Fireball.xnb
+C:\Users\nti\Desktop\VikingSimulator gabbe\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\MenuExit.xnb
+C:\Users\nti\Desktop\VikingSimulator gabbe\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\MenuPlay.xnb
+C:\Users\nti\Desktop\VikingSimulator gabbe\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\VikingSimulator.exe
+C:\Users\nti\Desktop\VikingSimulator gabbe\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\VikingSimulator.pdb
+C:\Users\nti\Desktop\VikingSimulator gabbe\VikingSimulator\VikingSimulator\VikingSimulator\obj\x86\Debug\VikingSimulator.pdb
+C:\Users\nti\Desktop\VikingSimulator gabbe\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\MenuRestart.xnb
+C:\Users\nti\Programmering\VikingSimulator 2\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\greybeardWest1.xnb
+C:\Users\nti\Programmering\VikingSimulator 2\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\greybeardEast1.xnb
+C:\Users\nti\Programmering\VikingSimulator 2\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\redbeardWest1.xnb
+C:\Users\nti\Programmering\VikingSimulator 2\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\redbeardEast1.xnb
+C:\Users\nti\Programmering\VikingSimulator 2\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\Hurt.xnb
+C:\Users\nti\Programmering\VikingSimulator 2\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\greyBeardWon.xnb
+C:\Users\nti\Programmering\VikingSimulator 2\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\redBeardWon.xnb
+C:\Users\nti\Programmering\VikingSimulator 2\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\Fireball.xnb
+C:\Users\nti\Programmering\VikingSimulator 2\VikingSimulator\VikingSimulator\bin\x86\Debug\VikingSimulator.exe
+C:\Users\nti\Programmering\VikingSimulator 2\VikingSimulator\VikingSimulator\bin\x86\Debug\VikingSimulator.pdb
+C:\Users\nti\Programmering\VikingSimulator 2\VikingSimulator\VikingSimulator\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\nti\Programmering\VikingSimulator 2\VikingSimulator\VikingSimulator\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\nti\Programmering\VikingSimulator 2\VikingSimulator\VikingSimulator\obj\x86\Debug\VikingSimulator.exe
+C:\Users\nti\Programmering\VikingSimulator 2\VikingSimulator\VikingSimulator\obj\x86\Debug\VikingSimulator.pdb
+C:\Users\nti\Programmering\VikingSimulator 2\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\MenuExitText.xnb
+C:\Users\nti\Programmering\VikingSimulator 2\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\MenuPlayText.xnb
+C:\Users\nti\Programmering\VikingSimulator 2\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\MenuRestartText.xnb
+C:\Users\nti\Programmering\VikingSimulator 2\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\MenuLogoImage.xnb
+C:\Users\nti\Desktop\VikingSimulator 2\VikingSimulator\VikingSimulator\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\nti\Desktop\VikingSimulator 2\VikingSimulator\VikingSimulator\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\nti\Desktop\VikingSimulator 2\VikingSimulator\VikingSimulator\obj\x86\Debug\VikingSimulator.exe
+C:\Users\nti\Desktop\VikingSimulator 2\VikingSimulator\VikingSimulator\obj\x86\Debug\VikingSimulator.pdb
+C:\Users\nti\Desktop\VikingSimulator 2\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\greybeardWest1.xnb
+C:\Users\nti\Desktop\VikingSimulator 2\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\greybeardEast1.xnb
+C:\Users\nti\Desktop\VikingSimulator 2\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\redbeardWest1.xnb
+C:\Users\nti\Desktop\VikingSimulator 2\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\redbeardEast1.xnb
+C:\Users\nti\Desktop\VikingSimulator 2\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\Hurt.xnb
+C:\Users\nti\Desktop\VikingSimulator 2\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\greyBeardWon.xnb
+C:\Users\nti\Desktop\VikingSimulator 2\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\redBeardWon.xnb
+C:\Users\nti\Desktop\VikingSimulator 2\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\Fireball.xnb
+C:\Users\nti\Desktop\VikingSimulator 2\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\MenuExitText.xnb
+C:\Users\nti\Desktop\VikingSimulator 2\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\MenuPlayText.xnb
+C:\Users\nti\Desktop\VikingSimulator 2\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\MenuRestartText.xnb
+C:\Users\nti\Desktop\VikingSimulator 2\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\MenuLogoImage.xnb
+C:\Users\nti\Desktop\VikingSimulator 2\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\cow.xnb
+C:\Users\nti\Desktop\VikingSimulator 2\VikingSimulator\VikingSimulator\bin\x86\Debug\VikingSimulator.exe
+C:\Users\nti\Desktop\VikingSimulator 2\VikingSimulator\VikingSimulator\bin\x86\Debug\VikingSimulator.pdb
+C:\Users\marten\Desktop\VikingSimulator 2\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\greybeardWest1.xnb
+C:\Users\marten\Desktop\VikingSimulator 2\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\greybeardEast1.xnb
+C:\Users\marten\Desktop\VikingSimulator 2\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\redbeardWest1.xnb
+C:\Users\marten\Desktop\VikingSimulator 2\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\redbeardEast1.xnb
+C:\Users\marten\Desktop\VikingSimulator 2\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\Hurt.xnb
+C:\Users\marten\Desktop\VikingSimulator 2\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\greyBeardWon.xnb
+C:\Users\marten\Desktop\VikingSimulator 2\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\redBeardWon.xnb
+C:\Users\marten\Desktop\VikingSimulator 2\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\Fireball.xnb
+C:\Users\marten\Desktop\VikingSimulator 2\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\MenuExitText.xnb
+C:\Users\marten\Desktop\VikingSimulator 2\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\MenuPlayText.xnb
+C:\Users\marten\Desktop\VikingSimulator 2\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\MenuRestartText.xnb
+C:\Users\marten\Desktop\VikingSimulator 2\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\MenuLogoImage.xnb
+C:\Users\marten\Desktop\VikingSimulator 2\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\cow.xnb
+C:\Users\marten\Desktop\VikingSimulator 2\VikingSimulator\VikingSimulator\bin\x86\Debug\VikingSimulator.exe
+C:\Users\marten\Desktop\VikingSimulator 2\VikingSimulator\VikingSimulator\bin\x86\Debug\VikingSimulator.pdb
+C:\Users\marten\Desktop\VikingSimulator 2\VikingSimulator\VikingSimulator\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\marten\Desktop\VikingSimulator 2\VikingSimulator\VikingSimulator\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\marten\Desktop\VikingSimulator 2\VikingSimulator\VikingSimulator\obj\x86\Debug\VikingSimulator.exe
+C:\Users\marten\Desktop\VikingSimulator 2\VikingSimulator\VikingSimulator\obj\x86\Debug\VikingSimulator.pdb
+C:\Users\nti\Desktop\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\MenuExitText.xnb
+C:\Users\nti\Desktop\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\MenuPlayText.xnb
+C:\Users\nti\Desktop\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\MenuRestartText.xnb
+C:\Users\nti\Desktop\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\MenuLogoImage.xnb
+C:\Users\nti\Desktop\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\cow.xnb
+C:\Users\marten\Desktop\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\Hurt.xnb
+C:\Users\marten\Desktop\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\greyBeardWon.xnb
+C:\Users\marten\Desktop\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\redBeardWon.xnb
+C:\Users\marten\Desktop\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\Fireball.xnb
+C:\Users\marten\Desktop\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\MenuExitText.xnb
+C:\Users\marten\Desktop\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\MenuPlayText.xnb
+C:\Users\marten\Desktop\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\MenuRestartText.xnb
+C:\Users\marten\Desktop\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\MenuLogoImage.xnb
+C:\Users\marten\Desktop\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\cow.xnb
+C:\Users\marten\Desktop\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\Font.xnb
+C:\Users\nti\Desktop\VikingSimulator\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\greybeardWest1.xnb
+C:\Users\nti\Desktop\VikingSimulator\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\greybeardEast1.xnb
+C:\Users\nti\Desktop\VikingSimulator\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\redbeardWest1.xnb
+C:\Users\nti\Desktop\VikingSimulator\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\redbeardEast1.xnb
+C:\Users\nti\Desktop\VikingSimulator\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\Hurt.xnb
+C:\Users\nti\Desktop\VikingSimulator\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\greyBeardWon.xnb
+C:\Users\nti\Desktop\VikingSimulator\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\redBeardWon.xnb
+C:\Users\nti\Desktop\VikingSimulator\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\Fireball.xnb
+C:\Users\nti\Desktop\VikingSimulator\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\MenuExitText.xnb
+C:\Users\nti\Desktop\VikingSimulator\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\MenuPlayText.xnb
+C:\Users\nti\Desktop\VikingSimulator\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\MenuRestartText.xnb
+C:\Users\nti\Desktop\VikingSimulator\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\MenuLogoImage.xnb
+C:\Users\nti\Desktop\VikingSimulator\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\cow.xnb
+C:\Users\nti\Desktop\VikingSimulator\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\Font.xnb
+C:\Users\nti\Desktop\VikingSimulator\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\VikingSimulator.exe
+C:\Users\nti\Desktop\VikingSimulator\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\VikingSimulator.pdb
+C:\Users\nti\Desktop\VikingSimulator\VikingSimulator\VikingSimulator\VikingSimulator\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\nti\Desktop\VikingSimulator\VikingSimulator\VikingSimulator\VikingSimulator\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\nti\Desktop\VikingSimulator\VikingSimulator\VikingSimulator\VikingSimulator\obj\x86\Debug\VikingSimulator.exe
+C:\Users\nti\Desktop\VikingSimulator\VikingSimulator\VikingSimulator\VikingSimulator\obj\x86\Debug\VikingSimulator.pdb
+C:\Users\nti\Desktop\VikingSimulator\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\mjod.xnb
+C:\Users\nti\Desktop\VikingSimulator\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\kottbulle.xnb
+C:\Users\nti\Programmering\VikingSimulator 6\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\greybeardWest1.xnb
+C:\Users\nti\Programmering\VikingSimulator 6\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\greybeardEast1.xnb
+C:\Users\nti\Programmering\VikingSimulator 6\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\redbeardWest1.xnb
+C:\Users\nti\Programmering\VikingSimulator 6\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\redbeardEast1.xnb
+C:\Users\nti\Programmering\VikingSimulator 6\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\Hurt.xnb
+C:\Users\nti\Programmering\VikingSimulator 6\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\greyBeardWon.xnb
+C:\Users\nti\Programmering\VikingSimulator 6\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\redBeardWon.xnb
+C:\Users\nti\Programmering\VikingSimulator 6\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\Fireball.xnb
+C:\Users\nti\Programmering\VikingSimulator 6\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\MenuExitText.xnb
+C:\Users\nti\Programmering\VikingSimulator 6\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\MenuPlayText.xnb
+C:\Users\nti\Programmering\VikingSimulator 6\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\MenuRestartText.xnb
+C:\Users\nti\Programmering\VikingSimulator 6\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\MenuLogoImage.xnb
+C:\Users\nti\Programmering\VikingSimulator 6\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\cow.xnb
+C:\Users\nti\Programmering\VikingSimulator 6\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\mjod.xnb
+C:\Users\nti\Programmering\VikingSimulator 6\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\kottbulle.xnb
+C:\Users\nti\Programmering\VikingSimulator 6\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\Content\Font.xnb
+C:\Users\nti\Programmering\VikingSimulator 6\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\VikingSimulator.exe
+C:\Users\nti\Programmering\VikingSimulator 6\VikingSimulator\VikingSimulator\VikingSimulator\bin\x86\Debug\VikingSimulator.pdb
+C:\Users\nti\Programmering\VikingSimulator 6\VikingSimulator\VikingSimulator\VikingSimulator\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\nti\Programmering\VikingSimulator 6\VikingSimulator\VikingSimulator\VikingSimulator\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\nti\Programmering\VikingSimulator 6\VikingSimulator\VikingSimulator\VikingSimulator\obj\x86\Debug\VikingSimulator.exe
+C:\Users\nti\Programmering\VikingSimulator 6\VikingSimulator\VikingSimulator\VikingSimulator\obj\x86\Debug\VikingSimulator.pdb
